@@ -514,6 +514,18 @@
                 <source>form.password_confirmation</source>
                 <target>Подтверждение пароля</target>
             </trans-unit>
+            <trans-unit id="Roles">
+                <source>Roles</source>
+                <target>Роли</target>
+            </trans-unit>
+            <trans-unit id="Additional roles">
+                <source>Additional roles</source>
+                <target>Дополнительные роли</target>
+            </trans-unit>
+            <trans-unit id="Status">
+                <source>Status</source>
+                <target>Статус</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
