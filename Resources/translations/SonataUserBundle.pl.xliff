@@ -4,15 +4,15 @@
         <body>
             <trans-unit id="title_user_registration">
                 <source>title_user_registration</source>
-                <target>title_user_registration</target>
+                <target>Rejestracja</target>
             </trans-unit>
             <trans-unit id="title_user_account">
                 <source>title_user_account</source>
-                <target>User Profile</target>
+                <target>Profil użytkownika</target>
             </trans-unit>
             <trans-unit id="title_user_edit_profile">
                 <source>title_user_edit_profile</source>
-                <target>Edit</target>
+                <target>Edytuj</target>
             </trans-unit>
             <trans-unit id="title_user_authentication">
                 <source>title_user_authentication</source>
@@ -20,7 +20,7 @@
             </trans-unit>
             <trans-unit id="sonata_user_submit">
                 <source>sonata_user_submit</source>
-                <target>Submit</target>
+                <target>Wyślij</target>
             </trans-unit>
             <trans-unit id="breadcrumb.link_user_list">
                 <source>breadcrumb.link_user_list</source>
@@ -69,6 +69,10 @@
             <trans-unit id="user_block_logout">
                 <source>user_block_logout</source>
                 <target equiv-trans="yes" state="final">Wyloguj</target>
+            </trans-unit>
+            <trans-unit id="user_block_profile">
+                <source>user_block_profile</source>
+                <target>user_block_profile</target>
             </trans-unit>
             <trans-unit id="user_form.label_username">
                 <source>form.label_username</source>
@@ -129,6 +133,10 @@
             <trans-unit id="filter.label_id">
                 <source>filter.label_id</source>
                 <target equiv-trans="yes" state="final">ID</target>
+            </trans-unit>
+            <trans-unit id="filter.label_enabled">
+                <source>filter.label_enabled</source>
+                <target>Aktywny</target>
             </trans-unit>
             <trans-unit id="filter.label_groups">
                 <source>filter.label_groups</source>
@@ -372,7 +380,7 @@
             </trans-unit>
             <trans-unit id="gender_unknown">
                 <source>gender_unknown</source>
-                <target>nieznana</target>
+                <target>płeć nieznana</target>
             </trans-unit>
             <trans-unit id="gender_female">
                 <source>gender_female</source>
@@ -468,7 +476,7 @@
             </trans-unit>
             <trans-unit id="sonata_user_profile_breadcrumb_index">
                 <source>sonata_user_profile_breadcrumb_index</source>
-                <target>dashboard</target>
+                <target>Dashboard</target>
             </trans-unit>
             <trans-unit id="sonata_user_profile_breadcrumb_edit">
                 <source>sonata_user_profile_breadcrumb_edit</source>
@@ -492,7 +500,7 @@
             </trans-unit>
             <trans-unit id="form.email">
                 <source>form.email</source>
-                <target>Adres e-mail</target>
+                <target>Email</target>
             </trans-unit>
             <trans-unit id="form.password">
                 <source>form.password</source>
